@@ -1,0 +1,106 @@
+header{
+  background: #cf8d3c;
+  background-image: url("../images/flywheel.jpg");
+  background-position: top;
+  text-align: center;
+  padding: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+h1{
+  color: #615e57;
+  background: rgba(235, 235, 235, 0.7);
+  display: inline-block;
+  padding: 1%;
+  border: 2mm ridge #d1a019;
+}
+h2{
+  color: #9c5805;
+}
+
+img{
+  width: 80%;
+  border: solid #141107;
+  display: block;
+  margin: 10% 10% 10%;
+}
+section{
+  background: #a3b8a9;
+}
+
+main{
+  margin: 3% 15%;
+}
+
+a{
+  color: #42372a;
+  font-variant: small-caps;
+}
+nav a{
+  display: inline-block;
+  margin: 1%;
+  background: rgba(212, 200, 169, 0.6);
+  border-radius: 50%;
+  text-decoration: none;
+  padding: 1%;
+}
+body{
+margin:2%;
+padding: 2%;
+}
+.active{
+  font-family: fantasy;
+  font-style: italic;
+  background: rgb(212, 200, 169);
+}
+.left{
+  float: left;
+  width: 25%;
+  background: #d6aa15;
+}
+
+.right{
+  float: left;
+  margin-left: 2%;
+  width: 69%;
+  padding: 2%;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  font-weight: 300;
+}
+th{
+  color: #000059;
+  background: linear-gradient(0.25turn, #788a9c, #d1a010, #788a9c);
+  text-align: center;
+  border: outset #a3b8a9;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  font-family: Garamond, "Trebuchet MS";
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 20px;
+}
+
+td{
+  padding: 1%;
+  text-align: center;
+  border: outset #a3b8a9;
+  font-family: serif,times, monospace;
+}
+
+th:first-child, td:first-child{
+  text-align: left;
+}
+
+tr+tr{
+  background: #d6aa15;
+  opacity: .7;
+}
+tr+tr:hover {
+  opacity: 1;
+  background-color: #2ECC71;
+}
