@@ -1,0 +1,14 @@
+C:\Users\jonas\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\jonas\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\jonas\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.AddPart.resources
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.MainScreen.resources
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.ModifyPart.resources
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.AddProduct.resources
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.ModifyProduct.resources
+C:\Users\jonas\source\repos\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
